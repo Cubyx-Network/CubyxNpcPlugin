@@ -17,6 +17,7 @@ public final class CubyxNpcPluginV2 extends JavaPlugin implements PluginSetupInt
         instance = this;
         cmdRegistry();
         listenerRegistry();
+        initConfig();
     }
 
     @Override
