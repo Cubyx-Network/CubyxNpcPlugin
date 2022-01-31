@@ -1,0 +1,6 @@
+eu\cubyx\cubyxnpcpluginv2\listener\PlayerInteractWithEntityListener.class
+eu\cubyx\cubyxnpcpluginv2\utils\PluginSetupInterface.class
+eu\cubyx\cubyxnpcpluginv2\utils\FileBuilder.class
+eu\cubyx\cubyxnpcpluginv2\utils\DragonApi.class
+eu\cubyx\cubyxnpcpluginv2\utils\ItemBuilder.class
+eu\cubyx\cubyxnpcpluginv2\CubyxNpcPluginV2.class

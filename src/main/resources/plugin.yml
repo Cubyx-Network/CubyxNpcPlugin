@@ -1,0 +1,5 @@
+name: CubyxNpcPluginV2
+version: '${project.version}'
+main: eu.cubyx.cubyxnpcpluginv2.CubyxNpcPluginV2
+api-version: 1.18
+authors: [ Dragonrexx ]
